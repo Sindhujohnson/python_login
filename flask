@@ -1,0 +1,5 @@
+pip install flask
+python-m pip install flask
+Python3-m pip install flask
+pip show flask
+[pip]
